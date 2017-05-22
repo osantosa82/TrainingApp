@@ -1,0 +1,2 @@
+# TrainingApp
+GW Core Training
